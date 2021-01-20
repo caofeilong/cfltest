@@ -1,3 +1,6 @@
 [submodule "mpeat"]
 	path = mpeat
 	url = git@github.com:caofeilong/mpeat.git
+[submodule "src/bcd"]
+	path = src/bcd
+	url = git@github.com:caofeilong/mpeat.git
