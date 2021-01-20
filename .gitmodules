@@ -1,0 +1,3 @@
+[submodule "mpeat"]
+	path = mpeat
+	url = git@github.com:caofeilong/mpeat.git
